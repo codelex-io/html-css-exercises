@@ -1,0 +1,20 @@
+a {
+  /* Should add background color #ff0040 */
+  /* Should add some padding to make the link more presentable */
+  /* Should add text color white */
+  /* Should add border radius of 10px to make the corners of link more round */
+  /* Should remove the underline from link which is added by default */
+  /* Should set the cursor to pointer since link is clickable */
+}
+
+a:hover {
+  /* Should change background color to #95072a */
+}
+
+a:active {
+  /* Should change background color to #791a32 */
+}
+
+.container {
+  /* Should add a margin to move the link container away from sides */
+}

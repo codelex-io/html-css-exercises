@@ -1,0 +1,24 @@
+input {
+  /* Add styles which all inputs share */
+}
+
+input:focus {
+  /* Remove outline for all inputs on focus */
+}
+
+input:hover {
+  /* Add styles which all inputs share */
+}
+
+input:active {
+  /* Add styles which all inputs share */
+}
+
+.input-text {
+}
+
+.input-number {
+}
+
+.input-date {
+}
