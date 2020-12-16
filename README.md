@@ -10,11 +10,11 @@ To match the styles, add class attributes to html elements, and modify each styl
 Some css files will also have instructions.
 
 ## Setup
-Copy this repository to your computer or download as zip.
+Copy this repository to your computer or open with Gitpod.
 
-Install a code editor from https://code.visualstudio.com/
+Install a code editor from https://code.visualstudio.com/ (Not neccesary, if working with Gitpod)
 
-Open your local copy of this repository with the code editor.
+Open your local copy of this repository with the code editor. (Not neccesary, if working with Gitpod)
 
 On the left side of the code editor's window, find extentions marketplace or use `Ctrl+Shift+x`.
 
